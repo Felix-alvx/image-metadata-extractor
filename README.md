@@ -504,8 +504,6 @@ Distribuido bajo la **Licencia MIT**. Consulta [`LICENSE`](LICENSE) para el text
 
 <div align="center">
 
-**Hecho con ❤️ y `Pillow` para la comunidad de ciberseguridad.**
-
 *Remember: metadata is a fingerprint. Strip it before you share.*
 
 </div>
